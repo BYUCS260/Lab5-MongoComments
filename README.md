@@ -30,5 +30,5 @@ You should test your server to make sure it works with your jquery script.  Your
 Minimal Passoff | The GET interface for your REST service returns the current comments| 25%
 Basic Passoff | You can pass the POST interface for your REST service a new comment and it correctly inserts it. | 55%
 Good Passoff | Your jquery application displays things properly. | 80%
-Full Passoff | You add the ability for users to delete or update a comment. | 90%
+Full Passoff | You add the ability for users to delete and update a comment. | 90%
 Perfect Passoff | Your code is included in your submission, and your page looks really good. This is subjective, so wow us. | 100%
